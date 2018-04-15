@@ -1,3 +1,7 @@
+# This Fork
+
+This fork is used as the default app for the [phoenix-app](https://github.com/cschiewek/phoenix-app-chart) Helm chart.  Which, in turn used by the [mandrag](https://github.com/cschiewek/mandrag) hex package.
+
 # Simple Chat Example
 
 > Built with the [Phoenix Framework](https://github.com/phoenixframework/phoenix)
